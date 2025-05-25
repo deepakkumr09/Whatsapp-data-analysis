@@ -1,0 +1,280 @@
+22/07/2024, 12:57 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.
+08/08/2024, 18:06 - Deepak Sahu: https://recruitcrm.io/apply/17194993453330028687kmf?utm_source=internal+hiring&utm_medium=job+candidate&utm_campaign=hiring
+09/08/2024, 12:25 - Deepak Sahu: <Media omitted>
+13/08/2024, 15:01 - Razi: <Media omitted>
+14/08/2024, 10:33 - Razi: <Media omitted>
+14/08/2024, 10:52 - Razi: <Media omitted>
+21/08/2024, 15:28 - Deepak Sahu: Jaag rahe ho bhai <This message was edited>
+21/08/2024, 15:28 - Deepak Sahu: ???
+21/08/2024, 15:29 - Razi: Hmm
+30/08/2024, 20:40 - Razi: http://listmonk.recruitcrm.net/link/4e5fd702-3696-4e31-a05b-c916b00465eb/935b6729-8f80-40cb-bd69-0cb3dd67efcb/34e07fec-97b8-4fd3-bece-24912183ca09
+30/08/2024, 20:42 - Razi: https://forms.gle/QfnDBe5dyKnuBzA38
+31/08/2024, 18:34 - Razi: ```import React from 'react';
+
+const SvgIcon = () => (
+  
+            <svg viewBox="0 0 128 128">
+            <path fill="#073042" d="M51.3 17.7H23.2C17.6 17.7 13 22.3 13 28c-.2 5.5 4.2 10.1 9.7 10.3h28.9l-.3-20.6z"></path><path fill="#4285F4" d="M115 109.3H23.2c-5.7 0-10.2-4.6-10.2-10.3V27.9c0 5.7 4.6 10.3 10.2 10.4h76.9s15-1.3 15 10v61z"></path><path fill="#3870B2" d="M72.2 72.9C76.3 69.8 77.1 64 74 60c-1.7-2.2-4.3-3.6-7.1-3.7h.3c.5-.1 1.1-.1 1.6 0v-5.7c0-.7-.3-1.3-.9-1.6-.9-.5-2-.2-2.5.7-.2.3-.3.6-.2 1v5.8c-5 .8-8.5 5.5-7.7 10.6v.1c.4 2.4 1.7 4.6 3.7 6l-16.9 36.2h11l7.8-16.6c.9-2 3.3-2.9 5.4-1.9.8.4 1.5 1.1 1.9 1.9l8.1 16.6h11.2L72.2 72.9zm-5.7-1.6c-3.2 0-5.7-2.6-5.7-5.8 0-3.2 2.6-5.7 5.8-5.6 1.5 0 2.8.6 3.9 1.6 2.3 2.2 2.3 5.8.1 8.1-1 1-2.5 1.7-4.1 1.7z"></path><path fill="#FFF" d="M45.2 22.7h39.4v7.2H45.2v-7.2z"></path><path fill="#073042" d="M63.5 59.8c3.1 0 5.7 2.6 5.6 5.8 0 3.1-2.6 5.7-5.8 5.6-3.1 0-5.6-2.6-5.6-5.7 0-1.5.6-2.9 1.7-4s2.6-1.7 4.1-1.7zm2.2-3.3v-6c0-.7-.3-1.3-.9-1.6-.9-.5-2-.2-2.5.7-.2.3-.3.6-.2 1v5.8c-5 .8-8.5 5.5-7.7 10.6v.1c.4 2.4 1.7 4.6 3.7 6l-21.3 45.7c-.8 1.6-.7 3.6.4 5.1 1.6 2.3 4.7 2.9 7 1.3.8-.5 1.4-1.3 1.8-2.1l14.2-30.4c.9-2 3.3-2.9 5.4-1.9.8.4 1.5 1.1 1.9 1.9L82 122.8c1.2 2.5 4.2 3.5 6.7 2.3 2.5-1.2 3.5-4.2 2.3-6.7L69.1 72.9c4-3.2 4.7-9.1 1.5-13.1-1.2-1.6-2.9-2.7-4.9-3.3"></path><path fill="#3DDC84" d="M78.8 29.1c-1.5 0-2.7-1.1-2.7-2.6 0-.7.3-1.5.8-2 1.1-1 2.7-1 3.8 0 .5.5.8 1.2.8 1.9-.1 1.5-1.2 2.6-2.7 2.7M49.2 29c-1.5 0-2.7-1.2-2.7-2.6 0-.7.3-1.4.8-1.9.9-1.1 2.6-1.3 3.7-.4h.1c1.1 1 1.2 2.7.2 3.8l-.3.4c-.5.5-1.2.8-1.9.8m30.5-16.2l5.3-9.2c.3-.5.1-1.1-.3-1.5-.5-.2-1-.1-1.3.3L77.8 12C69 8.1 59 8.1 50.3 12l-5.4-9.4c-.2-.3-.6-.6-1-.6s-.8.2-1 .6c-.2.3-.2.8 0 1.1l5.4 9.2C38.9 18 32.8 27.6 31.9 38.2h64.2c-.8-10.7-7-20.2-16.4-25.3"></path><path fill="#073042" d="M105.6 58.1h-4.2c-.2.1-.4.3-.4.6v66.5c0 .3.2.5.5.5h4.4c5.1 0 9.2-4.2 9.2-9.2V48.8c0 5.1-4.1 9.2-9.2 9.2h-.3z"></path>
+            </svg>
+          
+);
+
+export default SvgIcon;```
+31/08/2024, 18:35 - Razi: ye file import kar k ek component ki tarah render kare
+31/08/2024, 18:40 - Razi: https://chatgpt.com/c/2af2b7f4-bea6-471e-a6d5-88468ed97008
+31/08/2024, 18:41 - Deepak Sahu: Diya:
+Import SvgIcon from 'path'
+ 
+
+<SvgIcon/>
+
+First line jaise import krna hai
+
+Pr path dena pdega tmhe
+
+Qki wo hme ni pta ki tmne kaha rkha hau
+
+Fir usi file me jaha import kiye waha pe use krne k liye second line jaise use kr skte ho
+31/08/2024, 18:47 - Razi: <Media omitted>
+31/08/2024, 18:47 - Razi: Pucho madam se aise he hoga kya
+31/08/2024, 19:17 - Deepak Sahu: Chal gaya
+31/08/2024, 19:17 - Deepak Sahu: ??
+31/08/2024, 19:17 - Razi: nhi samjh me aa rha haibhai
+31/08/2024, 19:37 - Deepak Sahu: Acha
+31/08/2024, 19:37 - Deepak Sahu: Wese wo ghumne gayi hai
+31/08/2024, 19:37 - Deepak Sahu: Per puch lete hai
+31/08/2024, 19:37 - Razi: koi nhi
+31/08/2024, 19:38 - Razi: rhne do
+12/09/2024, 00:44 - Deepak Sahu: You deleted this message
+12/09/2024, 00:49 - Deepak Sahu: null
+12/09/2024, 01:00 - Razi: null
+05/10/2024, 11:04 - Deepak Sahu: You deleted this message
+08/10/2024, 20:59 - Deepak Sahu: You deleted this message
+08/10/2024, 20:59 - Deepak Sahu: Kalsar Bhai ki
+08/10/2024, 20:59 - Razi: Hmm
+08/10/2024, 20:59 - Razi: Ab party hoga😍
+22/10/2024, 12:13 - Deepak Sahu: Aa jao bhai
+22/10/2024, 12:13 - Deepak Sahu: Wrna kya pata fas jao
+22/10/2024, 12:13 - Deepak Sahu: Achi koi company aaye baithne na de
+22/10/2024, 12:13 - Deepak Sahu: Kuch nhi ho Raha hai abhi
+22/10/2024, 12:13 - Deepak Sahu: Koi teacher kuch nhi aaye hai abhi
+22/10/2024, 12:14 - Razi: Dekhte hain aap l azim bhai ko bulata hu fir
+22/10/2024, 12:14 - Razi: Accha
+22/10/2024, 12:18 - Deepak Sahu: 12:30 per
+22/10/2024, 12:18 - Deepak Sahu: Hoga aana ho aa jao
+22/10/2024, 12:18 - Deepak Sahu: Kuch nhi hoga bhai
+22/10/2024, 12:18 - Deepak Sahu: Aisa nhi ho ki nap jao
+22/10/2024, 12:18 - Razi: Ok
+22/10/2024, 12:29 - Deepak Sahu: Aa rahe ho ??
+23/10/2024, 12:18 - Deepak Sahu: You deleted this message
+23/10/2024, 12:18 - Deepak Sahu: You deleted this message
+26/10/2024, 19:38 - Deepak Sahu: Train confirm hua
+26/10/2024, 19:38 - Deepak Sahu: Shramjeevi se jaoge kya <This message was edited>
+26/10/2024, 19:38 - Razi: Nhi bhai 7 waiting raha
+26/10/2024, 19:38 - Razi: Haan bhai
+26/10/2024, 19:38 - Deepak Sahu: To kaise jaoge
+26/10/2024, 19:38 - Deepak Sahu: Bahut bheed chal raha hai yrr train me
+26/10/2024, 19:39 - Razi: Jana to prega na bhai bheer he shi koi aur option nhi hai
+26/10/2024, 19:39 - Razi: Isliye na
+26/10/2024, 19:41 - Deepak Sahu: Bhej do dekhte hai
+26/10/2024, 19:41 - Deepak Sahu: Pata nhi hai ki nhi usme
+26/10/2024, 19:41 - Deepak Sahu: Acha hum raat me rukenge koi dikkat to nhi
+26/10/2024, 19:41 - Deepak Sahu: ??
+26/10/2024, 19:41 - Razi: Nhi hoga
+26/10/2024, 19:41 - Razi: Guard hai na
+26/10/2024, 19:42 - Deepak Sahu: Thik hai koi aur hai
+26/10/2024, 19:42 - Deepak Sahu: ??
+26/10/2024, 19:42 - Razi: <Media omitted>
+26/10/2024, 19:42 - Razi: Nhi
+26/10/2024, 19:42 - Razi: Shayad much mess wala hai
+26/10/2024, 19:43 - Razi: Dikkat nhi hoga
+26/10/2024, 19:43 - Deepak Sahu: Thik hai
+26/10/2024, 19:43 - Deepak Sahu: Wese bhi ekdam subha nikal jayenge
+26/10/2024, 19:43 - Razi: Sultanpur pahuch k call krna
+26/10/2024, 19:44 - Deepak Sahu: Biryani 500gm le le Ki aur??
+26/10/2024, 19:44 - Deepak Sahu: Okay
+26/10/2024, 19:44 - Razi: Tm apne liye v lelo bhai
+26/10/2024, 19:44 - Deepak Sahu: Haa wo keval tumhare liye hai
+26/10/2024, 19:44 - Razi: Accha fir theek hai
+26/10/2024, 19:44 - Deepak Sahu: Hum to bas 250 gm hi kha payenge
+26/10/2024, 19:44 - Deepak Sahu: Thik hai phir
+26/10/2024, 19:46 - Razi: Accha
+26/10/2024, 19:46 - Razi: Aao lekr
+26/10/2024, 19:46 - Deepak Sahu: Hmm
+26/10/2024, 19:46 - Razi: Agar tmahre pass cash hai to koi baat nhi otherwise nikal lena
+26/10/2024, 19:46 - Razi: Atm se
+26/10/2024, 19:47 - Deepak Sahu: Nhi hai bhai 40 rupay hai bas😅
+26/10/2024, 19:47 - Razi: Atm na ho to btana station se aate he
+26/10/2024, 19:47 - Razi: Station pe aana sbi yono se nikal lena paisa
+26/10/2024, 19:48 - Deepak Sahu: Haa thik jai
+26/10/2024, 19:48 - Razi: 🙏🏼
+28/10/2024, 12:54 - Deepak Sahu: Ho gaya
+28/10/2024, 12:54 - Deepak Sahu: Kya puch Raha hai
+28/10/2024, 12:54 - Deepak Sahu: ??
+28/10/2024, 12:56 - Razi: Nhi hua h chal rha h
+28/10/2024, 12:56 - Deepak Sahu: Kya puch Raha hai
+28/10/2024, 12:56 - Deepak Sahu: Btao
+28/10/2024, 12:57 - Deepak Sahu: Camera on hai ki off??
+28/10/2024, 12:57 - Razi: Electric car k bare me ghore it is futuristic
+28/10/2024, 12:57 - Razi: Hmm
+28/10/2024, 12:58 - Deepak Sahu: Acha
+28/10/2024, 13:02 - Deepak Sahu: Ho gaya bhai
+28/10/2024, 13:02 - Razi: Nhi yr
+28/10/2024, 13:02 - Razi: Chal rha ruko
+28/10/2024, 15:17 - Razi: Tmhara ho gya
+28/10/2024, 15:52 - Deepak Sahu: Hmm
+28/10/2024, 16:19 - Razi: 👌🏼
+28/10/2024, 16:24 - Deepak Sahu: Are mtlb ki gf ho gaya
+28/10/2024, 16:24 - Deepak Sahu: Wo dusra Deepak hai <This message was edited>
+28/10/2024, 16:24 - Razi: Accha
+28/10/2024, 16:24 - Deepak Sahu: Yeah
+28/10/2024, 16:24 - Razi: Hume lgaa tmhara ho gya
+28/10/2024, 16:24 - Deepak Sahu: Nhi hua pata nhi kaise le raha hai
+28/10/2024, 16:24 - Deepak Sahu: Tumne bhi to sahi hi batya tha sab <This message was edited>
+28/10/2024, 16:25 - Razi: Pgl tha
+28/10/2024, 16:25 - Deepak Sahu: Hmm yrr
+28/10/2024, 16:25 - Razi: Sala wo
+28/10/2024, 16:25 - Deepak Sahu: 10 sex bolne hi diya
+28/10/2024, 16:25 - Deepak Sahu: Sec
+28/10/2024, 16:25 - Razi: Hmm
+30/10/2024, 18:57 - Deepak Sahu: Current status me cnf likh raha hai
+30/10/2024, 18:57 - Deepak Sahu: To kya mtlb hai train confirm hai
+30/10/2024, 18:57 - Deepak Sahu: ??
+30/10/2024, 18:59 - Razi: Haan
+30/10/2024, 18:59 - Deepak Sahu: Seat number ye sab kaha dekhe
+30/10/2024, 18:59 - Deepak Sahu: Dikh nhi Raha hai
+30/10/2024, 19:00 - Razi: Pnr bhejo
+30/10/2024, 19:00 - Razi: Hume
+30/10/2024, 19:00 - Deepak Sahu: 2804616933
+30/10/2024, 19:02 - Razi: Chart prepared hone do
+30/10/2024, 19:02 - Razi: Fir aaega
+30/10/2024, 19:02 - Razi: Seat number sb
+30/10/2024, 19:03 - Deepak Sahu: Kab tak aayega
+30/10/2024, 19:03 - Razi: Kab ka ticket hai
+30/10/2024, 19:03 - Deepak Sahu: Poora confirm hai na train??
+30/10/2024, 19:03 - Razi: Haan
+30/10/2024, 19:03 - Deepak Sahu: Kal subha 6:30
+30/10/2024, 19:03 - Razi: Aaj 12 bje tak aa jaega msg
+30/10/2024, 19:03 - Razi: Confirmation ka
+30/10/2024, 19:03 - Deepak Sahu: Acha
+30/10/2024, 19:03 - Deepak Sahu: Tab thik hai
+30/10/2024, 19:03 - Razi: Chart prepared hote he
+30/10/2024, 19:04 - Deepak Sahu: Hmm
+30/10/2024, 19:04 - Razi: Haan
+01/11/2024, 21:27 - Razi: Hlo
+01/11/2024, 21:27 - Razi: Kya haal bhai
+01/11/2024, 21:52 - Razi: null
+01/11/2024, 21:53 - Razi: Account me paisa waisa hai
+01/11/2024, 21:55 - Razi: 500 tak hai to bhejo
+01/11/2024, 22:08 - Deepak Sahu: Haa bhai paisa hai
+01/11/2024, 22:09 - Deepak Sahu: Bas uska hai per abhi wo maangegi nhi jldi
+01/11/2024, 22:09 - Deepak Sahu: Bhej rahe hai
+01/11/2024, 22:09 - Deepak Sahu: Isi number per bhejna hai
+01/11/2024, 22:09 - Deepak Sahu: ??
+01/11/2024, 22:09 - Razi: Haan
+01/11/2024, 22:09 - Deepak Sahu: Thik hai
+01/11/2024, 22:09 - Razi: Mai 5 tak deta hu bhai
+01/11/2024, 22:09 - Deepak Sahu: 500
+01/11/2024, 22:09 - Razi: Hmm hmm
+01/11/2024, 22:09 - Deepak Sahu: Koi baat nhi chalega
+01/11/2024, 22:10 - Razi: Shukriya bhai❤️
+01/11/2024, 22:10 - Deepak Sahu: Are yrr
+01/11/2024, 22:11 - Deepak Sahu: Kab tak aaoge
+01/11/2024, 22:11 - Deepak Sahu: Hostel
+01/11/2024, 22:11 - Razi: 10 ko allahabad me rhunga
+01/11/2024, 22:11 - Deepak Sahu: Acha mtlb 12 tak
+01/11/2024, 22:11 - Razi: Maybe 10 ko he ya 11 ko
+01/11/2024, 22:11 - Deepak Sahu: Acha
+01/11/2024, 22:11 - Deepak Sahu: Sahi hai bhai
+01/11/2024, 22:11 - Razi: Allahabad aaunga to call krunga
+01/11/2024, 22:11 - Deepak Sahu: Haa
+01/11/2024, 22:11 - Deepak Sahu: Btana
+01/11/2024, 22:12 - Razi: Okay bhai
+06/11/2024, 11:29 - Deepak Sahu: Kaise join kar rahe ho
+06/11/2024, 11:30 - Deepak Sahu: Laptop me khul hi nhi Raha hai
+06/11/2024, 11:30 - Deepak Sahu: null
+06/11/2024, 11:30 - Razi: Laptop me he join kr rha hu
+06/11/2024, 11:30 - Razi: Nhi ho rha hai but
+06/11/2024, 11:31 - Deepak Sahu: Phone me kar lo
+06/11/2024, 11:31 - Razi: <Media omitted>
+06/11/2024, 11:31 - Deepak Sahu: Waha ho raha hai
+06/11/2024, 11:31 - Deepak Sahu: Mere me to ye bhi nhi open ho raha hai
+06/11/2024, 11:31 - Razi: Accha
+06/11/2024, 11:31 - Deepak Sahu: Haa
+06/11/2024, 11:35 - Deepak Sahu: Ho Raha hai
+06/11/2024, 11:35 - Deepak Sahu: ??
+06/11/2024, 11:35 - Razi: Haan
+06/11/2024, 11:35 - Deepak Sahu: Mera join nhi hua
+06/11/2024, 11:35 - Deepak Sahu: Kya bata raha hai
+06/11/2024, 11:35 - Razi: <Media omitted>
+06/11/2024, 11:35 - Razi: Logout krke login kro
+06/11/2024, 11:36 - Deepak Sahu: Acha
+06/11/2024, 12:17 - Deepak Sahu: ye kya bola free me training dega
+06/11/2024, 12:17 - Deepak Sahu: ??
+06/11/2024, 12:17 - Razi: Mai exit le liya bhai
+06/11/2024, 12:18 - Deepak Sahu: paisa bhi dega?????😅😅
+06/11/2024, 12:18 - Razi: Kya bola bola
+06/11/2024, 12:18 - Deepak Sahu: acha
+06/11/2024, 12:18 - Razi: Kya bola ye bolo to
+06/11/2024, 12:18 - Deepak Sahu: training free me dega per paisa wala smjh nhi aaya
+11/11/2024, 12:44 - Deepak Sahu: Koi train nhi hai
+11/11/2024, 12:45 - Deepak Sahu: Sayad
+11/11/2024, 12:45 - Deepak Sahu: Bus se hi aa jao
+11/11/2024, 12:48 - Razi: Okay bhai
+14/11/2024, 00:29 - Razi: 100 bhejo zraa account me
+14/11/2024, 00:32 - Deepak Sahu: Bhej diye hai bhai
+14/11/2024, 00:33 - Razi: Hmm hmm
+14/11/2024, 00:33 - Razi: Shukriya bhai
+11/12/2024, 22:03 - Deepak Sahu: <Media omitted>
+15/12/2024, 12:23 - Deepak Sahu: Check this out
+HIGHLANDER Stand Collar Padded Jacket http://www.myntra.com/mailers/topwear/highlander/highlander-stand-collar-padded-jacket/25042494/buy?utm_source=social_share_pdp&utm_medium=deeplink&utm_campaign=social_share_pdp_deeplink on Myntra
+24/12/2024, 00:08 - Deepak Sahu: Call kiye the razi Bhai
+24/12/2024, 00:08 - Deepak Sahu: Paisa mil gaya ??
+24/12/2024, 00:08 - Deepak Sahu: Dikha nhi tha turant kaat diye the kya ??
+24/12/2024, 01:21 - Razi: Haan bhai busy the to socha choro
+24/12/2024, 06:15 - Deepak Sahu: Acha
+24/12/2024, 06:16 - Razi: Jagg gae kya
+24/12/2024, 07:01 - Deepak Sahu: Haa
+15/01/2025, 08:03 - Deepak Sahu: Happy birthday razi Bhai ❣️❣️❣️
+15/01/2025, 08:33 - Razi: Shukriya bhai ❤️🌺
+14/02/2025, 22:55 - Deepak Sahu: <Media omitted>
+22/02/2025, 23:47 - Deepak Sahu: Razi Bhai yrr khana aayega recieved kar lena
+22/02/2025, 23:47 - Deepak Sahu: Hostel me ho na
+22/02/2025, 23:47 - Deepak Sahu: Mai saala train me fas gaya hu
+22/02/2025, 23:47 - Deepak Sahu: 6 ghante se
+22/02/2025, 23:47 - Razi: Ok
+22/02/2025, 23:48 - Deepak Sahu: Late ho gaya
+22/02/2025, 23:48 - Razi: Phone krna
+22/02/2025, 23:48 - Razi: Accha kahan ho abhi
+22/02/2025, 23:48 - Deepak Sahu: Wo karega maybe
+22/02/2025, 23:48 - Deepak Sahu: Agar nhi karega to Mai kar dunga
+22/02/2025, 23:48 - Razi: Ok ok
+22/02/2025, 23:48 - Razi: Ok bhai
+22/02/2025, 23:48 - Deepak Sahu: Ek station bacha hai lekina ek ghanta hai nikal hi nhi Raha hai
+22/02/2025, 23:48 - Deepak Sahu: Hmmm
+22/02/2025, 23:49 - Razi: Ok aram se aao bhai mai rcv kr lunga
+22/02/2025, 23:49 - Deepak Sahu: Hmm kar lena
+22/02/2025, 23:49 - Razi: Ok
+23/02/2025, 00:03 - Deepak Sahu: Kitne ka hai
+23/02/2025, 00:03 - Deepak Sahu: Btao
+23/02/2025, 00:04 - Deepak Sahu: Aa rahe hai to kar rahe hai
+05/03/2025, 10:02 - Deepak Sahu: Hum aa gaye hai
+19/03/2025, 18:25 - Deepak Sahu: Kab aaoge Bhai
+19/03/2025, 18:26 - Deepak Sahu: Kal exam hai
+19/03/2025, 18:26 - Razi: Pahuch jaata yrr but train miss ho gae
+19/03/2025, 18:26 - Razi: Subah me
+19/03/2025, 18:26 - Razi: 4 bje dusri train li hai
+19/03/2025, 18:27 - Razi: 11 bje tk pahuch jaunga
+19/03/2025, 20:45 - Deepak Sahu: Acha
+19/03/2025, 20:45 - Deepak Sahu: Sahi hai atleast aaj aa jaoge
+19/03/2025, 20:48 - Razi: Hmm
+31/03/2025, 17:39 - Deepak Sahu: Eid Mubarak Bhai ❣️
+31/03/2025, 17:47 - Razi: Aapko bhi eid mubarak mere bhai❤️
+12/04/2025, 02:00 - Deepak Sahu: Ppt ban gaya???
+12/04/2025, 05:05 - Razi: Nhi yr
+12/04/2025, 05:05 - Razi: Subah bnaunga
+12/04/2025, 07:20 - Deepak Sahu: Subha to message kiye ho
+12/04/2025, 07:20 - Deepak Sahu: 😅😅
+12/04/2025, 09:05 - Razi: 🤣🤣
+12/04/2025, 15:22 - Deepak Sahu: Bhai
+12/04/2025, 15:22 - Deepak Sahu: Call karna nikalna to
